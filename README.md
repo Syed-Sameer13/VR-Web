@@ -16,8 +16,6 @@ A live version of the website can be viewed here:
 ![Project Screenshot2](./assets/Screenshot2.png)
 ![Project Screenshot3](./assets/Screenshot3.png)
 
-*A preview of the website's main banner section on a desktop device.*
-
 ## ✨ Features
 
 -   **Fully Responsive Design:** Adapts seamlessly to desktops, tablets, and mobile devices.
