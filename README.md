@@ -52,13 +52,12 @@ To view or work on this project locally, follow these simple steps:
 
 ## 📂 File Structure
 
-<<<<<<< HEAD
-your-project-folder/
-├── assets/
-│   └── screenshot.png
-├── index.html
-├── style.css
-└── README.md
-=======
-The project has a straightforward file structure:
->>>>>>> b24e662059560be5f457ec43097639f8ae4ec8bf
+VR Web/
+- assets/
+  - screenshot.png
+- index.html
+- style.css
+- README.md
+
+
+
