@@ -12,7 +12,9 @@ A live version of the website can be viewed here:
 
 ## 📸 Screenshot
 
-
+![Project Screenshot1](./assets/Screenshot1.png)
+![Project Screenshot2](./assets/Screenshot2.png)
+![Project Screenshot3](./assets/Screenshot3.png)
 
 *A preview of the website's main banner section on a desktop device.*
 
@@ -52,4 +54,9 @@ To view or work on this project locally, follow these simple steps:
 
 ## 📂 File Structure
 
-The project has a straightforward file structure:
+your-project-folder/
+├── assets/
+│   └── screenshot.png
+├── index.html
+├── style.css
+└── README.md
