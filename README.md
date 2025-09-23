@@ -1,4 +1,4 @@
-# VR Product Landing Page
+# VR Responsive Webpages
 
 This repository contains the source code for a modern, fully responsive landing page for a Virtual Reality (VR) product. It is a single-page website designed to showcase the product's features, included kit, technology, and related content in a visually appealing manner.
 
