@@ -51,13 +51,13 @@ To view or work on this project locally, follow these simple steps:
     Simply double-click the `index.html` file or open it from your browser. No web server or build steps are required.
 
 ## 📂 File Structure
-
+```bash
 VR Web/
 - assets/
   - screenshot.png
 - index.html
 - style.css
 - README.md
-
+```
 
 
