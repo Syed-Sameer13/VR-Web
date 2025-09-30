@@ -1,4 +1,4 @@
-# VR Responsive Web site
+# VR Responsive Website
 
 This repository contains the source code for a modern, fully responsive landing page for a Virtual Reality (VR) product. It is a single-page website designed to showcase the product's features, included kit, technology, and related content in a visually appealing manner.
 
@@ -11,9 +11,9 @@ A live version of the website can be viewed here:
 ➡️ **[View Live Demo](https://vrwebres.ccbp.tech/)**
 
 ## 📸 Screenshot
-![Screenshot of the main page](.\VRWebassets\VRWebscreenshot1.png)
-![Screenshot of the Features page](.\VRWebassets\VRWebscreenshot2.png)
-![Screenshot of the Blogs page](.\VRWebassets\VRWebscreenshot3.png)
+![Screenshot of the main page](./VRWebassets/VRWebscreenshot1.png)
+![Screenshot of the Features page](./VRWebassets/VRWebscreenshot2.png)
+![Screenshot of the Blogs page](./VRWebassets/VRWebscreenshot3.png)
 
 
 
