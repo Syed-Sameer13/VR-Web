@@ -1,119 +1,332 @@
-@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
-.todos-bg-container {
-    background-color: #f9fbfe;
+.vrlogo {
+    height: 45px;
+    width: 55px;
+}
+
+#navtext1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navtext2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navtext3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navtext4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banbg {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png');
     height: 100vh;
+    background-size: cover;
 }
 
-.todos-heading {
-    text-align: center;
-    font-family: "Roboto";
-    font-size: 46px;
-    font-weight: 500;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.create-task-heading {
-    font-family: "Roboto";
-    font-size: 32px;
-    font-weight: 700;
-}
-
-.create-task-heading-subpart {
-    font-family: "Roboto";
-    font-size: 32px;
-    font-weight: 500;
-}
-
-.todo-items-heading {
-    font-family: "Roboto";
-    font-size: 32px;
-    font-weight: 700;
-}
-
-.todo-items-heading-subpart {
-    font-family: "Roboto";
-    font-size: 32px;
-    font-weight: 500;
-}
-
-.todo-items-container {
-    margin: 0;
-    padding: 0;
-}
-
-.todo-item-container {
-    margin-top: 15px;
-}
-
-.todo-user-input {
-    background-color: white;
-    width: 100%;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #e4e7eb;
-    border-radius: 10px;
-    margin-top: 10px;
-    padding: 15px;
-}
-
-.button {
+.banh {
+    font-size: 43px;
+    font-family: 'Roboto';
     color: white;
-    background-color: #4c63b6;
-    font-family: "Roboto";
-    font-size: 18px;
+    font-weight: bold;
+}
+
+.banb {
+    height: 40px;
+    width: 110px;
+    background-color: #1a2137;
     border-width: 0;
-    border-radius: 4px;
-    margin-top: 20px;
-    margin-bottom: 50px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    padding-right: 20px;
-    padding-left: 20px;
+    border-radius: 3px;
+    color: white;
 }
 
-.label-container {
-    background-color: #e6f6ff;
-    width: 100%;
-    border-style: solid;
-    border-width: 5px;
-    border-color: #096f92;
-    border-right: none;
-    border-top: none;
-    border-bottom: none;
-    border-radius: 4px;
-}
 
-.checkbox-input {
-    width: 20px;
-    height: 20px;
-    margin-top: 12px;
-    margin-right: 12px;
-}
-
-.checkbox-label {
+.feahead {
+    font-size: 35px;
+    color: #1f2933;
+    margin-bottom: 15px;
     font-family: "Roboto";
-    font-size: 16px;
-    font-weight: 400;
-    width: 82%;
-    margin: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
+    font-weight: 600;
+}
+
+.feaimg {
+    height: 60px;
+    width: 58px;
+    margin-bottom: 9px;
+
+}
+
+.feah {
+    font-size: 26px;
+    color: #1f2933;
+    margin-bottom: 8px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.feap {
+    font-size: 14px;
+    color: #7b8794;
+    margin-bottom: 3px;
+    font-family: "Roboto";
+}
+
+.feasec {
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    height: 250px;
+}
+
+.sp {
+    color: black;
+    font-weight: bold;
+}
+
+
+.kithead {
+    font-size: 29px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.kitimg {
+    width: 100%;
+    height: 350px;
+}
+
+.kith {
+    font-size: 20px;
+    color: #323f4b;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.ocs {
+    padding: 30px;
+}
+
+.ocsimg {
+    width: 100%;
+}
+
+.ocsh {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #1f2933;
+    font-size: 50px;
+}
+
+.ocsp {
+    font-weight: 300;
+    font-family: "Roboto";
+    color: #7b8794;
+    font-size: 25px;
+
+}
+
+.ocsb {
+    height: 40px;
+    width: 110px;
+    background-color: #1a2137;
+    color: white;
+    border-radius: 5px;
+    border-width: 0;
+}
+
+
+.cus {
+    height: 100vh;
+    width: 100vw;
+    background-color: #222b36;
+
+
+}
+
+.cusimg {
+    width: 100%;
+}
+
+.cush {
+    font-size: 55px;
+    color: white;
+    font-family: "Roboto";
+}
+
+.cusb {
+    height: 35px;
+    width: 120px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    color: white;
     border-radius: 5px;
 }
 
-.delete-icon-container {
-    text-align: right;
-    width: 18%;
+
+.tbsh1 {
+    color: #1f2933;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Roboto";
 }
 
-.delete-icon {
-    padding: 15px;
+.tbsimg {
+    width: 100%;
 }
 
-.checked {
-    text-decoration: line-through;
+.tbsh {
+    color: #959ead;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.tbsp {
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 200;
+    font-family: "Roboto";
+}
+
+.spanp {
+    color: #1754a1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.tbsbut {
+    height: 50px;
+    width: 160px;
+    background-color: #1754a1;
+    color: white;
+    font-family: "Roboto";
+    border-width: 0;
+    border-radius: 5px;
+}
+
+.tbsc {
+    width: 100%;
+    border-radius: 5px;
+    height: 95%;
+}
+
+.psc {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.psc1 {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.psh {
+    color: white;
+    font-weight: normal;
+    font-family: "Roboto";
+
+}
+
+.psp {
+    color: white;
+    font-weight: 200;
+    font-family: "Roboto";
+    font-size: 19px;
+}
+
+.psb {
+    height: 40px;
+    width: 120px;
+    background-color: transparent;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+    color: white;
+    font-size: 18px;
+}
+
+.psh1 {
+    color: #1f2933;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.psb1 {
+    height: 50px;
+    width: 140px;
+    background-color: #1754a1;
+    border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+
+.fs {
+    background-color: #19232d;
+    font-family: "Roboto";
+    width: 100vw;
+
+}
+
+.fsimg {
+    height: 50px;
+    width: 80px;
+
+}
+
+.fsc {
+    height: 52px;
+    width: 52px;
+    border-radius: 26px;
+    background-color: #202b36;
+    margin: 5px;
+}
+
+.icon {
+    font-size: 28px;
+    color: #5a7184;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    marker: 5px;
+
+}
+
+.fsh {
+    color: #5a7184;
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.fsp {
+    color: #5a7184;
+    font-size: 14px;
+}
+
+hr {
+    border-color: #5a7184;
+    height: 5px;
+    width: 100%;
 }

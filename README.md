@@ -1,66 +1,63 @@
-# Todos App
+# VR Responsive Web site
 
-This is a simple, yet effective, web-based todo list application designed to help you manage your daily tasks with ease. It allows you to **add, complete, delete, and save your tasks** directly within your browser, ensuring your list is always up-to-date and accessible.
+This repository contains the source code for a modern, fully responsive landing page for a Virtual Reality (VR) product. It is a single-page website designed to showcase the product's features, included kit, technology, and related content in a visually appealing manner.
 
-<br>
+The project is built with clean HTML5 and custom CSS3, and it is structured using the powerful Bootstrap 4 framework to ensure seamless adaptability across all devices.
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-blue.svg?style=for-the-badge&logo=github)](https://todosappp13.ccbp.tech/)
+A live version of the website can be viewed here:
 
-<br>
+➡️ **[View Live Demo](https://vrwebres.ccbp.tech/)**
 
----
+## 📸 Screenshot
+![Screenshot of the main page](\VRWebassets\VRWebscreenshot1.png)
+![Screenshot of the Features page](\VRWebassets\VRWebscreenshot2.png)
+![Screenshot of the Blogs page](\VRWebassets\VRWebscreenshot3.png)
 
-## Key Features
 
-* **Task Management:** Add new tasks, mark them as completed, and delete them when you're done.
-* **Persistent Storage:** Tasks are automatically saved to your browser's local storage, so your list remains even after you close the tab.
-* **Intuitive UI:** The app is built with **Bootstrap 4** for a clean, responsive design that looks great on any device.
 
----
+*A preview of the website's main banner section on a desktop device.*
 
-## Screenshots
+## ✨ Features
 
-Here's a look at the app in action:
+-   **Fully Responsive Design:** Adapts seamlessly to desktops, tablets, and mobile devices.
+-   **Multi-Section Layout:** Includes dedicated sections for Features, VR Kits, Improved Optics, Trending Blogs, Products, and a comprehensive Footer.
+-   **Bootstrap 4 Framework:** Utilizes Bootstrap's robust grid system and components for a structured and mobile-first layout.
+-   **Sticky Navigation Bar:** Provides easy navigation that remains fixed at the top of the page on scroll.
+-   **Font Awesome Icons:** Integrates clean and modern icons for enhanced user interface.
+-   **Custom CSS Styling:** Features a well-organized stylesheet with custom styles to create a unique and polished look.
 
-![Screenshot of the Todos App's main page showing a list of tasks.](\assets\Screenshot1.png)
-![Screenshot of the Todos App's main page showing a list of completed tasks.](\assets\Screenshot2.png)
----
+## 🛠️ Technologies Used
 
-## Getting Started
+-   **HTML5:** For the core structure and content of the website.
+-   **CSS3:** For all custom styling, layouts, and visual effects.
+-   **Bootstrap 4:** For the responsive grid system and pre-styled components.
+-   **Font Awesome:** For scalable vector icons used throughout the page.
+-   **Google Fonts:** For custom web typography (`Roboto` family).
 
-Ready to use the app? It's quick and easy to get up and running.
+## 🔧 How to Use
 
-1.  **Clone the repository** to your local machine.
-2.  Open the `index.html` file in your preferred web browser.
+To view or work on this project locally, follow these simple steps:
 
-No server or complex setup required!
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    ```
 
----
+2.  **Navigate to the project directory:**
+    ```bash
+    cd your-repo-name
+    ```
 
-## Usage
+3.  **Open the `index.html` file in your browser:**
+    Simply double-click the `index.html` file or open it from your browser. No web server or build steps are required.
 
-Using the app is straightforward:
+## 📂 File Structure
 
-* **Add a task:** Type your task into the input field and hit the **Add** button.
-* **Complete a task:** Click the checkbox next to a task to mark it as done.
-* **Delete a task:** Click the trash icon to remove a task from your list.
-
-Your tasks are automatically saved as you go, so you're always ready to pick up where you left off.
-
----
-
-## Built With
-
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **[Bootstrap 4](https://getbootstrap.com/):** For a responsive and clean layout.
-* **[Font Awesome](https://fontawesome.com/):** For the sleek icons.
-
----
-
-## License
-
-This project is open source and available under the **[MIT License](https://opensource.org/licenses/MIT)**.
+.
+-├── assets/
+-│   └── screenshot.png
+-├── index.html
+-├── style.css
+-└── README.md
