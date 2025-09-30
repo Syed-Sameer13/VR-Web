@@ -11,9 +11,9 @@ A live version of the website can be viewed here:
 ➡️ **[View Live Demo](https://vrwebres.ccbp.tech/)**
 
 ## 📸 Screenshot
-![Screenshot of the main page](\VRWebassets\VRWebscreenshot1.png)
-![Screenshot of the Features page](\VRWebassets\VRWebscreenshot2.png)
-![Screenshot of the Blogs page](\VRWebassets\VRWebscreenshot3.png)
+![Screenshot of the main page](.\VRWebassets\VRWebscreenshot1.png)
+![Screenshot of the Features page](.\VRWebassets\VRWebscreenshot2.png)
+![Screenshot of the Blogs page](.\VRWebassets\VRWebscreenshot3.png)
 
 
 
